@@ -1,0 +1,18 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.murphys-background {
+  background: url(https://www.dsquared2.com/cloud/dsquared2wp/uploads/2019/10/SLOT1DESKTOP.jpg?impolicy=moduleSlideshowHome&imwidth=1250&imdensity=1);
+  background-size: cover;
+  height: 500px;
+  color: white;
+}
+
+.footer-background {
+  background-color: black;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
